@@ -996,6 +996,10 @@
         },
         {
           "type": "STRING",
+          "value": "fill-pattern"
+        },
+        {
+          "type": "STRING",
           "value": "stroke"
         },
         {

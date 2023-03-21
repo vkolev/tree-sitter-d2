@@ -413,6 +413,10 @@
     "named": false
   },
   {
+    "type": "fill-pattern",
+    "named": false
+  },
+  {
     "type": "float",
     "named": true
   },

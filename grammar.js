@@ -241,6 +241,7 @@ module.exports = grammar({
       choice(
         "opacity",
         "fill",
+        "fill-pattern",
         "stroke",
         "stroke-width",
         "stroke-dash",
