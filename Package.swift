@@ -27,6 +27,8 @@ let package = Package(
                     "README.md",
                     "src/grammer.json",
                     "src/node-types.json",
+                    "target",
+                    "tree-sitter-d2.wasm",
                 ],
                 sources: [
                     "src/parser.c",
