@@ -21,10 +21,10 @@ let package = Package(
                     "examples",
                     "flake.lock",
                     "flake.nix",
-                    "grammer.json"
+                    "grammer.json",
                     "Makefile",
-                    "package.json"
-                    "README.md"
+                    "package.json",
+                    "README.md",
                     "src/grammer.json",
                     "src/node-types.json",
                 ],
