@@ -1,5 +1,7 @@
 # tree-sitter-d2
 
+This repository is a fork of https://git.pleshevski.ru/pleshevskiy/tree-sitter-d2 so it can be packaged for Swift.
+
 d2 grammar for tree-sitter.
 
 References:
