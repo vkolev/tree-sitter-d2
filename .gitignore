@@ -6,3 +6,4 @@
 test.d2
 # produced by d2
 *.svg
+target
